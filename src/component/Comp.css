@@ -1,0 +1,36 @@
+.main{
+    background-color: rgb(8, 39, 39);
+    height: 250px;
+    width: 400px;
+    color: antiquewhite;
+    text-align: center;
+    border-radius: 0px;
+  }
+.content{
+    background-color: lightblue;
+    text-align: center;
+    height: 500px;
+    width: 400px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 3px 3px 3px black;
+    margin-left: 35%;
+
+}   
+.heading{
+    text-shadow: 3px 2px 2px brown;
+}
+.btn{
+    width: 250px;
+    height: 30px;
+    background-color: darkgreen;
+    border-radius: 1px 10px 1px 10px;
+}
+input{
+    width: 220px;
+    outline: none;
+    border: none;
+    background: none;
+    border-bottom: 3px solid rgb(0, 0, 0);
+    margin: 2px auto;
+    text-align: center;
+}
